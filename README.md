@@ -1,1 +1,1 @@
-"# Arrasto-de-tela-dividida" 
+"# Arrasto-de-tela-dinâmico" 
